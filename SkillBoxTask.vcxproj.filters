@@ -18,12 +18,12 @@
     <ClCompile Include="SkillBoxTask.cpp">
       <Filter>Исходные файлы</Filter>
     </ClCompile>
-    <ClCompile Include="Class.cpp">
+    <ClCompile Include="Helpers.cpp">
       <Filter>Исходные файлы</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="Class.h">
+    <ClInclude Include="Helpers.h">
       <Filter>Исходные файлы</Filter>
     </ClInclude>
   </ItemGroup>

@@ -1,8 +1,8 @@
 ﻿#include <iostream>
-#include "Class.h"
+#include "Helpers.h"
 
 int main()
 {
     int result = sum(3, 3);
-    std::cout << result << "\n";
+    std::cout << "Result = " << result << std::endl;
 }
